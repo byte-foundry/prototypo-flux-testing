@@ -1,0 +1,11 @@
+{
+  "name": "prototypo-flux-testing",
+  "version": "0.0.1",
+  "description": "A package for simplfying testing flux action for prototypo's version of nexus flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
